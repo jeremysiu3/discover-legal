@@ -91,13 +91,13 @@ We reserve the right to suspend or terminate your access to the app at any time,
 
 ## 14. Governing Law
 
-These terms shall be governed by and construed in accordance with the laws of [Your State/Province], without regard to its conflict of law provisions.
+These terms shall be governed by and construed in accordance with the laws of California, without regard to its conflict of law provisions.
 
 ## 15. Contact Us
 
 If you have questions about these Terms of Service, please contact us at:
 
-**Email:** [your-email@example.com]
+**Email:** jeremysiu3@gmail.com
 
 ---
 
