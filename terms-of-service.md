@@ -6,7 +6,7 @@ title: Terms of Service — Discover
 # Terms of Service
 
 **Discover**
-**Last updated: March 17, 2026**
+**Last updated: April 1, 2026**
 
 ## 1. Acceptance of Terms
 
