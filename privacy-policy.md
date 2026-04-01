@@ -95,7 +95,7 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
-**Email:** jeremysiu3@gmail.com
+**Email:** discover.app.support@gmail.com
 
 ---
 
