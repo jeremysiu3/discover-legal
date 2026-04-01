@@ -6,7 +6,7 @@ title: Privacy Policy — Discover
 # Privacy Policy
 
 **Discover**
-**Last updated: March 17, 2026**
+**Last updated: April 1, 2026**
 
 ## Introduction
 
