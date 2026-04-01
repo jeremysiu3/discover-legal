@@ -36,7 +36,7 @@ When you delete your account, the following data is **permanently removed**:
 
 If you have uninstalled Discover or cannot sign in, you can request account deletion by emailing us at:
 
-**jeremysiu3@gmail.com**
+**discover.app.support@gmail.com**
 
 Please include the email address you used to create your account. We will verify your identity and delete your account and all associated data within 7 business days.
 
