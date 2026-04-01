@@ -26,9 +26,6 @@ Go to Settings → Manage Subscription. This will open your device's subscriptio
 **I found a bug — how do I report it?**
 Use the "Report a Problem" option in Settings, or email us directly at the address above.
 
-**How do I save places?**
-Swipe right on any place to save it to your collections. Free users can save up to 30 places.
-
 **Can I use Discover without an account?**
 Yes! You can browse and swipe through places without signing in. An account is only needed to save places to your collections.
 
