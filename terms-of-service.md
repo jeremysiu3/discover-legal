@@ -97,7 +97,7 @@ These terms shall be governed by and construed in accordance with the laws of Ca
 
 If you have questions about these Terms of Service, please contact us at:
 
-**Email:** jeremysiu3@gmail.com
+**Email:** discover.app.support@gmail.com
 
 ---
 
